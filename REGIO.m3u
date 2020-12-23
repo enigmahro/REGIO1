@@ -1,0 +1,134 @@
+#EXTM3U
+
+*** MÉXICO ***
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="",Las Estrellas
+http://srregio.net/Sr_Regio151120/tp.php?c=17&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas,2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="",Las Estrellas(2)
+http://srregio.net/Sr_Regio151120/tp.php?c=17&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal5" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canal-5-logo-png-transparent.png" group-title="",Canal 5
+http://srregio.net/Sr_Regio151120/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal5,2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canal-5-logo-png-transparent.png" group-title="",Canal 5(2)
+http://srregio.net/Sr_Regio151120/tp.php?c=20&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" group-title="",Azteca7
+http://srregio.net/Sr_Regio151120/tp.php?c=317&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" group-title="",Azteca 7(2)
+http://srregio.net/Sr_Regio151120/tp.php?c=322&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A+" tvg-logo="https://forounivers.com/uploads/monthly_2017_03/large.58ca099958cf2_a.png.5324ca4355112d0398127d724539e1bd.png" group-title="",A+
+http://srregio.net/Sr_Regio151120/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Imagen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen TV
+http://srregio.net/Sr_Regio151120/tp.php?c=2606&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Imagen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen TV
+http://srregio.net/Sr_Regio151120/tp.php?c=2298&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="",NU9VE
+http://srregio.net/Sr_Regio151120/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1 tvg-id="" tvg-name="AXS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="",AXS TV
+http://cdnak8.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="",SPACE
+http://srregio.net/Sr_Regio151120/tp.php?c=129&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT USA" tvg-logo="https://www.pinclipart.com/picdir/big/214-2145216_nba-on-tnt-logo-clipart.png" group-title="",TNT USA
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="",TNT
+http://srregio.net/Sr_Regio151120/tp.php?c=126&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://forounivers.com/uploads/monthly_2018_04/large.583f2b1cadb6a_LogoTNTSeries(Blanco).png.cbc4b4b5fc68ea9d5fb139c19debbbcf.png" group-title="",TNT Series
+http://srregio.net/Sr_Regio151120/tp.php?c=71&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png" group-title="",FOX
+http://srregio.net/Sr_Regio151120/tp.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495772/FOX_Action_HD.png" group-title="",FOX Action
+http://srregio.net/Sr_Regio151120/tp.php?c=336&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496832/FOX_Movies_HD.png" group-title="",FOX Movies
+http://srregio.net/Sr_Regio151120/tp.php?c=146&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Series" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_SERIESHD.png" group-title="",FOX Series
+http://srregio.net/Sr_Regio151120/tp.php?c=139&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="",FX
+http://srregio.net/Sr_Regio151120/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="",Unicable
+http://srregio.net/Sr_Regio151120/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/TLnovelas2019.png" group-title="",TL Novelas
+http://srregio.net/Sr_Regio151120/tp.php?c=83&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="",Comedy Central
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdafgasdsdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/51
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central2" tvg-logo="" group-title="",Comedy Central(2)
+http://srregio.net/Sr_Regio151120/tp.php?c=340&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="",Distrito Comedia
+http://srregio.net/Sr_Regio151120/tp.php?c=78&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png" group-title="",Telehit
+http://srregio.net/Sr_Regio151120/tp.php?c=220&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="",Warner TV
+http://srregio.net/Sr_Regio151120/tp.php?c=205&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="",Studio Universal
+http://srregio.net/Sr_Regio151120/tp.php?c=132&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="",Paramount
+http://srregio.net/Sr_Regio151120/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.72622580071579.png.48667f6cb9c09e18c10161d1651d7c5b.png" group-title="",SONY
+http://srregio.net/Sr_Regio151120/tp.php?c=48&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="",AXN
+http://srregio.net/Sr_Regio151120/tp.php?c=64&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="",Cinecanal
+http://srregio.net/Sr_Regio151120/tp.php?c=149&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="",Cinemax
+http://srregio.net/Sr_Regio151120/tp.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/small_AMC.png.475741e921ccf81afe6d2ca4bcc31fa0.png" group-title="",AMC
+http://srregio.net/Sr_Regio151120/tp.php?c=131&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="", GOLDEN
+http://srregio.net/Sr_Regio151120/tp.php?c=123&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png" group-title="", GOLDEN +
+http://srregio.net/Sr_Regio151120/tp.php?c=122&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://practicalpunting.com.au/content/upload/images/GE-500-grey.png" group-title="",GOLDEN EDGE
+http://srregio.net/Sr_Regio151120/tp.php?c=124&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03-300x245.png" group-title="",GOLDEN Premier
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdafgasdsdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/19
+
+*** DEPORTES¨***
+ 
+#EXTINF:-1, ESPN 
+http://srregio.net/Sr_Regio151120/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, ESPN + 
+http://srregio.net/Sr_Regio151120/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, ESPN 2
+http://srregio.net/Sr_Regio151120/tp.php?c=169&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ESPN 3 
+http://srregio.net/Sr_Regio151120/tp.php?c=345&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS
+http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX SPORTS 2
+http://srregio.net/Sr_Regio151120/tp.php?c=172&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOX SPORTS 3 
+http://srregio.net/Sr_Regio151120/tp.php?c=178&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1, TUDN
+http://srregio.net/Sr_Regio151120/tp.php?c=174&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TUDN HD (2)
+http://srregio.net/Sr_Regio151120/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
